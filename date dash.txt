@@ -1,0 +1,17 @@
+Project Name: Create dash use python
+
+Author: Mohamed BEN ALI
+
+Institution: Cité des Métiers et des Compétences (CMC) Rabat-Salé-Kénitra(RSK)
+
+Field of Study (Filière): Digital & Artificial Intelligence (Digital et Intelligence Artificielle)
+
+Specialty (Spécialité): Artificial Intelligence & Data Analytics (Technicien Spécialisé - 2nd Year)
+
+Project Creation Date: november(11) 25, 2026, 10:48
+
+Publication Date: november(11) 26, 2026, 21:55
+
+Environment / Tools: Python 3.14, PyCharm, dash, HTML, Ploty, Pandas
+
+Professor: Yassine
