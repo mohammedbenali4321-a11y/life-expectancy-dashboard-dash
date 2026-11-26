@@ -69,9 +69,20 @@ df = pd.read_csv("gapminder_unfiltered.csv")
 * **Author:** Mohamed BEN ALI
 
 
+```python
+df = pd.read_csv("gapminder_unfiltered.csv")
+```
+
+---
+
+## Academic & Author Information
+
+* **Project Name:** Create dash use python
+* **Author:** Mohamed BEN ALI
+
 ### 4. Contact
 
-* **LinkeDin : [Mohamed BEN ALI](https://www.linkedin.com/in/mohamed-ben-ali-m)
-* **kaggle** : [mbaitri](https://www.kaggle.com/mbaitri)
-* **GitHub** : [Mohamed BEN ALI](https://github.com/mohammedbenali4321-a11y)
-* **Roadmap**: [Mohamed BEN ALI](https://roadmap.sh/u/benalimohamed)
+* **LinkedIn:** [Mohamed BEN ALI](https://www.linkedin.com/in/mohamed-ben-ali-m)
+* **Kaggle:** [mbaitri](https://www.kaggle.com/mbaitri)
+* **GitHub:** [Mohamed BEN ALI](https://github.com/mohammedbenali4321-a11y)
+* **Roadmap:** [Mohamed BEN ALI](https://roadmap.sh/u/benalimohamed)
