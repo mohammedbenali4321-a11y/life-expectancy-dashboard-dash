@@ -4,11 +4,11 @@ An interactive data visualization web application built with **Python**, **Plotl
 
 ---
 
-## 📋 Overview
+##  Overview
 
 This project demonstrates how to build a reactive analytical dashboard from scratch using Dash components (`dash.html`, `dash.dcc`, and `dash.dash_table`). Users can select any country from a dropdown menu to dynamically update a life expectancy time-series chart while browsing, sorting, and filtering the underlying dataset side-by-side.
 
-### ✨ Key Features
+###  Key Features
 * **Interactive Country Selection:** Dynamic `dcc.Dropdown` menu (defaulting to *Canada*) connected via Dash `@callback` decorators.
 * **Real-Time Line Chart:** Interactive `px.line` visualization tracking life expectancy (`lifeExp`) over time (`year`).
 * **Interactive Data Table:** Paginated `dash_table.DataTable` (`10` rows per page) with native column filtering (`filter_action="native"`) and sorting (`sort_action="native"`).
@@ -16,7 +16,7 @@ This project demonstrates how to build a reactive analytical dashboard from scra
 
 ---
 
-## 🛠️ Tech Stack & Environment
+##  Tech Stack & Environment
 
 * **Language:** Python 3.14
 * **IDE:** PyCharm
@@ -27,7 +27,7 @@ This project demonstrates how to build a reactive analytical dashboard from scra
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 life-expectancy-dashboard-dash/
@@ -44,7 +44,7 @@ life-expectancy-dashboard-dash/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 ```bash
