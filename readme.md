@@ -68,13 +68,7 @@ df = pd.read_csv("gapminder_unfiltered.csv")
 * **Project Name:** Create dash use python
 * **Author:** Mohamed BEN ALI
 
-
-```python
-df = pd.read_csv("gapminder_unfiltered.csv")
-```
-
 ---
-
 ## Academic & Author Information
 
 * **Project Name:** Create dash use python
