@@ -63,13 +63,14 @@ Before running the script on a new machine, update the CSV file path in the Pyth
 df = pd.read_csv("gapminder_unfiltered.csv")
 ---
 
-## 🎓 Academic & Author Information
+##  Academic & Author Information
 
 * **Project Name:** Create dash use python
 * **Author:** Mohamed BEN ALI
-* **Institution:** Cité des Métiers et des Compétences (CMC) Rabat-Salé-Kénitra (RSK)
-* **Field of Study (Filière):** Digital & Artificial Intelligence (*Digital et Intelligence Artificielle*)
-* **Specialty (Spécialité):** Artificial Intelligence & Data Analytics (*Technicien Spécialisé - 2nd Year*)
-* **Professor:** Yassine
-* **Creation Date:** November 25, 2026
-* **Publication Date:** November 26, 2026
+
+## contact
+
+* **LinkeDin : [Mohamed BEN ALI](https://www.linkedin.com/in/mohamed-ben-ali-m)
+* **kaggle** : [mbaitri](https://www.kaggle.com/mbaitri)
+* **GitHub** : [Mohamed BEN ALI](https://github.com/mohammedbenali4321-a11y)
+* **Roadmap**: [Mohamed BEN ALI](https://roadmap.sh/u/benalimohamed)
