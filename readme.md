@@ -61,17 +61,6 @@ pip install dash plotly pandas
 Before running the script on a new machine, update the CSV file path in the Python script from the local Windows path to a relative path:
 ```python
 df = pd.read_csv("gapminder_unfiltered.csv")
-```
-
-### 4. Run the Application
-```bash
-python "table  html.py"
-```
-Once running, open your browser and navigate to:
-```text
-http://127.0.0.1:8050/
-```
-
 ---
 
 ## 🎓 Academic & Author Information
