@@ -62,6 +62,7 @@ Before running the script on a new machine, update the CSV file path in the Pyth
 
 ```python
 df = pd.read_csv("gapminder_unfiltered.csv")
+
 ---
 
 ## Academic & Author Information
